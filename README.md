@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anmol Yaseen</h1>
 <h3 align="center">Hi, I'm Anmol Yaseen, an aspiring data scientist proficient in Python, machine learning, and data analysis, with additional expertise in graphic design, UI/UX and Web development</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anmolyaseen01&label=Profile%20views&color=0e75b6&style=flat" alt="anmolyaseen01" /> </p>
+
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, And Web Scraping**
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/anmol](https://www.datascienceportfol.io/anmol)
