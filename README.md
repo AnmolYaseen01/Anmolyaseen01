@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anmol Yaseen</h1>
-<h3 align="center">An aspiring Data Scientist.Through dedicated practice, I've obtained proficiency in Python, machine learning, and data analysis up to some extent.I've also got basic knowledge of graphic design, UI/UX, and web development.</h3>
+<h3 align="center">An aspiring Data Scientist, with a particular focus on machine learning and deep learning.Through dedicated practice, I've obtained proficiency in Python, machine learning, and data analysis up to some extent.I've also got basic knowledge of graphic design, UI/UX, and web development.</h3>
 
 
 <h3 align="center"> Let's connect and explore the world of data science together! </h3>
