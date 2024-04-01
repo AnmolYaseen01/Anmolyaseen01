@@ -2,7 +2,6 @@
 <h3 align="center">
 I'm passionate about data science and willing to pursue it as a career. Through dedicated practice, I've obtained proficiency in Python, machine learning, and data analysis up to some extent.I've also got basic knowledge of graphic design, UI/UX, and web development.
 
-
 With this diverse skill set, I feel well-prepared for the challenges of professional life. I'm excited about the opportunities ahead and ready to continue growing in the field.
 
 Let's connect and explore the world of data science together! </h3>
