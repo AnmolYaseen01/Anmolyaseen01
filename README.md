@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anmol Yaseen</h1>
-<h3 align="center">I'm passionate about data science and willing to pursue it as a career. Through dedicated practice, I've obtained proficiency in Python, machine learning, and data analysis up to some extent.I've also got basic knowledge of graphic design, UI/UX, and web development.
+<h3 align="center">I'm passionate about data science and willing to pursue it as a career. Through dedicated practice, I've obtained proficiency in Python, machine learning, and data analysis up to some extent.I've also got basic knowledge of graphic design, UI/UX, and web development.</h3>
 
-Let's connect and explore the world of data science together! </h3>
+<h4> Let's connect and explore the world of data science together! </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmolyaseen01&label=Profile%20views&color=0e75b6&style=flat" alt="anmolyaseen01" /> </p>
 
