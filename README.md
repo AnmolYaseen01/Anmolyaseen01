@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmolyaseen01&label=Profile%20views&color=0e75b6&style=flat" alt="anmolyaseen01" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, And Web Scraping**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, And Angular for Web Development**
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/anmol](https://www.datascienceportfol.io/anmol)
 
