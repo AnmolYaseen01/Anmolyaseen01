@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, And Angular for Web Development**
 
-- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/anmol](https://www.datascienceportfol.io/anmol)
+- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/anmolyaseen](https://www.datascienceportfol.io/anmolyaseen)
 
 - 📝 I regularly write articles on [https://medium.com/@Anm.Y](https://medium.com/@Anm.Y)
 
