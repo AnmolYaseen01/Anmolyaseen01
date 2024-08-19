@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Html, CSS, Javascript, React, Cpp, Power BI, DAX, Python, Jupyter notebook, Pandas, Numpy, Sklearn, Seaborn, Matplotlib**
 
-- 📫 How to reach me **anmol.yaseen@yahoo.com**
+- 📫 How to reach me **anmolyaseen93@gmail.com**
 
 - ⚡ Fun fact **I grow by helping others grow 😄**
 
