@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anmol Yaseen</h1>
-<h3 align="center">An aspiring Data Scientist, with a particular focus on machine learning and deep learning.Through dedicated practice, I've obtained proficiency in Python, machine learning, and data analysis up to some extent.I've also got basic knowledge of graphic design, UI/UX, and web development.</h3>
+<h3 align="center">An undergraduate from Pakistan & I'm super excited about AI and data science. My goal? To use technology to make the world a better place. I know my way around Python, machine learning, and crunching data. I also love taking on projects and getting my hands dirty to solve real world problems. I'm all about taking on new challenges and finding smart solutions. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmolyaseen01&label=Profile%20views&color=0e75b6&style=flat" alt="anmolyaseen01" /> </p>
 
