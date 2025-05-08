@@ -1,24 +1,24 @@
 <h1 align="center">Hi 👋, I'm Anmol Yaseen</h1>
-<p align="center">I’m Anmol Yaseen, a certified machine learning specialist, entrepreneur, and digital marketing expert with a passion for driving impactful results. Over the years of my experience in data science, business development, and marketing, I specialize in:
+<p align="left">I’m Anmol Yaseen, a certified machine learning specialist, entrepreneur, and digital marketing expert with a passion for driving impactful results. Over the years of my experience in data science, business development, and marketing, I specialize in:</p>>
 
-✅ Building predictive models and AI-powered tools that solve real-world problems.
-✅ Designing data-driven marketing strategies that boost engagement and ROI.
-✅ Automating workflows to optimize productivity and save time.
+<p align="left">✅ Building predictive models and AI-powered tools that solve real-world problems.</p>
+<p align="left">✅ Designing data-driven marketing strategies that boost engagement and ROI.</p>
+<p align="left">✅ Automating workflows to optimize productivity and save time.</p>
 
-Skills I Offer:
-1️⃣ Machine Learning: NLP, supervised & unsupervised learning, predictive modeling.
-2️⃣ Digital Marketing: SEO, lead generation, social media management, email campaigns.
-3️⃣ Data Analytics: Power BI dashboards, exploratory data analysis, advanced Excel.
-4️⃣ Workflow Automation: Zapier integrations, project management with Jira & Notion.
-5️⃣ Content Strategy: SEO-optimized blogs, video content, and compelling copywriting.
+<p align="left">Skills I Offer:
+<p align="left">1️⃣ Machine Learning: NLP, supervised & unsupervised learning, predictive modeling.</p>
+<p align="left">2️⃣ Digital Marketing: SEO, lead generation, social media management, email campaigns.</p>
+<p align="left">3️⃣ Data Analytics: Power BI dashboards, exploratory data analysis, advanced Excel.</p>
+<p align="left">4️⃣ Workflow Automation: Zapier integrations, project management with Jira & Notion.</p>
+<p align="left">5️⃣ Content Strategy: SEO-optimized blogs, video content, and compelling copywriting.</p>
 
-Certifications:
-📜 Machine Learning Specialization (Stanford University)
-📜 Advanced Machine Learning Algorithms (United Latino Students Association)
-📜 Integrated Marketing Communications (IE Business School)
-📜 Business Model Canvas for Entrepreneurs (Kennesaw State University)
+<p align="left">Certifications:</p>
+<p align="left">📜 Machine Learning Specialization (Stanford University)</p>
+<p align="left">📜 Advanced Machine Learning Algorithms (United Latino Students Association)</p>
+<p align="left">📜 Integrated Marketing Communications (IE Business School)</p>
+<p align="left">📜 Business Model Canvas for Entrepreneurs (Kennesaw State University)</p>
 
- Let’s collaborate and bring your vision to life! </p>
+ <p align="left">Let’s collaborate and bring your vision to life! </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmolyaseen01&label=Profile%20views&color=0e75b6&style=flat" alt="anmolyaseen01" /> </p>
 
