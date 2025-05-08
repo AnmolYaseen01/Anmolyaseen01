@@ -26,11 +26,9 @@
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/anmolyaseen](https://www.datascienceportfol.io/anmolyaseen)
 
-- 📝 I regularly write articles on [https://medium.com/@Anm.Y](https://medium.com/@Anm.Y)
-
 - 💬 Ask me about **Html, CSS, Javascript, React, Cpp, Power BI, DAX, Python, Jupyter notebook, Pandas, Numpy, Sklearn, Seaborn, Matplotlib, Node js, Mysql**
 
-- 📫 How to reach me **anmolyaseen93@gmail.com**
+- 📫 How to reach me **anmol.yaseen@yahoo.com**
 
 - ⚡ Fun fact **I grow by helping others grow 😄**
 
