@@ -1,5 +1,24 @@
 <h1 align="center">Hi 👋, I'm Anmol Yaseen</h1>
-<h3 align="center">An undergraduate from Pakistan & I'm super excited about AI and data science. My goal? To use technology to make the world a better place. I know my way around Python, machine learning, and crunching data. I'm all about taking on new challenges and finding smart solutions. </h3>
+<p align="center">I’m Anmol Yaseen, a certified machine learning specialist, entrepreneur, and digital marketing expert with a passion for driving impactful results. Over the years of my experience in data science, business development, and marketing, I specialize in:
+
+✅ Building predictive models and AI-powered tools that solve real-world problems.
+✅ Designing data-driven marketing strategies that boost engagement and ROI.
+✅ Automating workflows to optimize productivity and save time.
+
+Skills I Offer:
+1️⃣ Machine Learning: NLP, supervised & unsupervised learning, predictive modeling.
+2️⃣ Digital Marketing: SEO, lead generation, social media management, email campaigns.
+3️⃣ Data Analytics: Power BI dashboards, exploratory data analysis, advanced Excel.
+4️⃣ Workflow Automation: Zapier integrations, project management with Jira & Notion.
+5️⃣ Content Strategy: SEO-optimized blogs, video content, and compelling copywriting.
+
+Certifications:
+📜 Machine Learning Specialization (Stanford University)
+📜 Advanced Machine Learning Algorithms (United Latino Students Association)
+📜 Integrated Marketing Communications (IE Business School)
+📜 Business Model Canvas for Entrepreneurs (Kennesaw State University)
+
+ Let’s collaborate and bring your vision to life! </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmolyaseen01&label=Profile%20views&color=0e75b6&style=flat" alt="anmolyaseen01" /> </p>
 
@@ -9,7 +28,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@Anm.Y](https://medium.com/@Anm.Y)
 
-- 💬 Ask me about **Html, CSS, Javascript, React, Cpp, Power BI, DAX, Python, Jupyter notebook, Pandas, Numpy, Sklearn, Seaborn, Matplotlib**
+- 💬 Ask me about **Html, CSS, Javascript, React, Cpp, Power BI, DAX, Python, Jupyter notebook, Pandas, Numpy, Sklearn, Seaborn, Matplotlib, Node js, Mysql**
 
 - 📫 How to reach me **anmolyaseen93@gmail.com**
 
