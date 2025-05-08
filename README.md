@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anmol Yaseen</h1>
-<p align="left">I’m Anmol Yaseen, a certified machine learning specialist, entrepreneur, and digital marketing expert with a passion for driving impactful results. Over the years of my experience in data science, business development, and marketing, I specialize in:</p>>
+<p align="left"> A certified machine learning specialist, entrepreneur, and digital marketing expert with a passion for driving impactful results. Over the years of my experience in data science, business development, and marketing, I specialize in:</p>
 
 <p align="left">✅ Building predictive models and AI-powered tools that solve real-world problems.</p>
 <p align="left">✅ Designing data-driven marketing strategies that boost engagement and ROI.</p>
